@@ -79,14 +79,14 @@ function Footer({spotify}) {
     return (
         <div className="footer">
             <div className="footer__left">
-            <img className="footer__albumLogo" src={item?.album.images[0].url} alt={item?.name}/>
+            <img className="footer__albumLogo" src={item ? item?.album.images[0].url : "https://www.pagalworld.tv/GpE34Kg9Gq/14642/143468-dooriyan-dino-james-mp3-song-300.jpg"} alt={item?.name}/>
                 {item ? (<div className="footer__songInfo">
                     <h4>{item.name}</h4>
                     <p>{item.artists.map((artist) => artist.name).join(", ")}</p>
                 </div>) : (
                     <div className="footer__songInfo">
-                        <h4>No song is playing</h4>
-                        <p>...</p>
+                        <h4>Dooriyan (feat. Kaprila)</h4>
+                        <p>Dino James, Kaprila</p>
                 </div>
                 )}
             </div>
