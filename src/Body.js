@@ -60,7 +60,7 @@ function Body({spotify}) {
             <div className="body__songs">
                 <div className="body__icons">
                     <PlayCircleFilledIcon className="body__shuffle" onClick={playPlaylist}/>
-                    <FavoriteIcon fontSize="large"/>
+                    <FavoriteIcon className="fav__icon" fontSize="large"/>
                     <MoreHorizIcon/>
 
                 </div>
