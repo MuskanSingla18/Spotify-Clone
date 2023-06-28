@@ -10,10 +10,9 @@
 .songRow:hover {
     transition: 300ms background-color ease-in;
     cursor: pointer;
-    background-color: white;
-    color: black;
-    border-radius: 10px;
+    background-color: rgb(45, 44, 44);
     opacity: 0.8;
+    border-radius: 10px;
 }
 
 .songRow__info {
