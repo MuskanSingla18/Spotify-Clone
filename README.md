@@ -4,7 +4,7 @@
 
 This project is a clone of the popular music streaming platform Spotify. It recreates some of the functionalities of Spotify such as displaying username , their playlists and discover weekly.
 
-![Screenshot](public/Website Screenshot.png)
+![Screenshot](https://github.com/MuskanSingla18/Spotify-Clone/blob/3f2341efee933bfaea9ef511229419c51e54fb39/public/Website%20Screenshot.png)
 
 *Screenshot of the Spotify Clone project showcasing the user interface and main features.*
 
