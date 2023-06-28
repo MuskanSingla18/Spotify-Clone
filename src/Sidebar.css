@@ -20,3 +20,21 @@
     padding: 5px;
     font-size: 12px;
 }
+
+.addPlaylist {
+    display: flex;
+    align-items: center;
+    color: grey;
+    height: 40px;
+    cursor: pointer;
+    transition: 200ms color ease-in;
+}
+.addPlaylist__icon {
+    font-size: 40px !important;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.addPlaylist:hover {
+    color:white;
+}
