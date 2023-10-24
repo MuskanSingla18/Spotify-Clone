@@ -1,4 +1,4 @@
-# Spotify-Clone
+# Music Straming App
 
 [Live Demo](https://spotify-clone-pied-three.vercel.app/)
 
