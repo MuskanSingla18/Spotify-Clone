@@ -1,4 +1,4 @@
-# Music Straming App
+# Music Streaming App
 
 [Live Demo](https://spotify-clone-pied-three.vercel.app/)
 
